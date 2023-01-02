@@ -29,7 +29,7 @@ User: test Pass: 123
 Negative test with symbols
 
 **Description:**
-Test the login by using the hastag symbol multiplied
+Test the login by using the hashtag symbol multiplied.
 
 **Steps to reproduce:**
 
@@ -75,11 +75,11 @@ Test the check box if it keeps the user logged in.
 
 **Steps to reproduce:**
 
-"1. Go to site.com/login
+1. Go to site.com/login
 2. Add correct credentials
 3. Tick the box
 4. Log in
-5. Close the app"
+5. Close the app
 
 **Expected result:**
 The user should be logged in automatically, 
@@ -94,16 +94,16 @@ User: test Pass: 123
 Test search bar if it works properly
 
 **Description:**
-Test the search bar if it works in desplaying the desired products
+Test the search bar if it desplays the desired products.
 
 **Steps to reproduce:**
 
-"1. Go to www.emag.ro
+1. Go to www.emag.ro
 2. Add a name product in the search bar
 3. Click the ""Search"" button
 
 **Expected result:**
-It should desplay the product that the user typed in the bar
+It should desplay the product that the user typed.
 
 --------------------
 
@@ -131,7 +131,7 @@ Type a product that doesn not exist, in the search bar.
 
 **Steps to reproduce:**
 
-"1. Go to www.emag.ro 
+1. Go to www.emag.ro 
 2. Type a product in the search bar, that doesn not exist"
 
 **Expected result:**
